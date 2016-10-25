@@ -8,6 +8,4 @@ This is the Arduino code for the prototype we showed at the challenge. Keep in m
 More information about the makeathon can be found [here](http://www.cinnober.com/news/students-make-financial-data-physical-makeathon)
 
 My lovely team: 
-[Alice Baggio](https://se.linkedin.com/in/alicebaggio/en)
-[James Zhou](https://www.linkedin.com/in/zhouj)
-[Evgenia Kateroudaki](https://gr.linkedin.com/in/evgenia-kateroudaki)
+[Alice Baggio](https://se.linkedin.com/in/alicebaggio/en) - [James Zhou](https://www.linkedin.com/in/zhouj) - [Evgenia Kateroudaki(https://gr.linkedin.com/in/evgenia-kateroudaki)
