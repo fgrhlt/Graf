@@ -6,6 +6,7 @@ This is the Arduino code for the prototype we showed at the challenge. Keep in m
 The Graf prototype is made of one small servo and a bunch of WS2812 led's. I used the Adafruit Neopixel library for the led-functionality. 
 
 [![Graf](graf-video.PNG)](https://vimeo.com/158194093)
+[Vimeo Link](https://vimeo.com/158194093)
 
 More information about the makeathon can be found [here](http://www.cinnober.com/news/students-make-financial-data-physical-makeathon)
 
